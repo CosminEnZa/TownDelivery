@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Selectable
+  - Drop
+  - Box
+  - NonDrop
+  - Fuel
+  - PeopleCol
+  - CarCol
+  - CarColPolice
+  - CarDrop
+  - Entity
+  - SortDrop
+  - NoBox
+  - DeliverBox
+  - PackedBox
+  - PlayerBox
+  - delivered
+  - Dog
+  - Object
+  - CarPlayer
+  - moveBoxPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BoxTransport
+  - Water
+  - UI
+  - Player
+  - Box
+  - Patrol
+  - Pets
+  - NotColideWithCars
+  - Non Grass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
